@@ -86,8 +86,8 @@ Yeah, Mike needs to update these.</p>
 
 <P><FONT FACE="Arial">BellyDance Logan City, Annual Charity Fundraising Concerts</FONT><br>
 <FONT FACE="Arial" SIZE=2>Photos from the concerts...<br>
-<A HREF="BellyDanceLogan20030802.htm">Saturday 2 August 2003</A><br>
-<A HREF="BellyDanceLogan20050820.htm">Saturday 20 August 2005</A></FONT>
+<A HREF="BellyDanceLogan20030802.html">Saturday 2 August 2003</A><br>
+<A HREF="BellyDanceLogan20050820.html">Saturday 20 August 2005</A></FONT>
 </p>
 
 
