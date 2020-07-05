@@ -1,0 +1,110 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Maureen Fitzsimon's Home Page</TITLE>
+<META NAME="Template" CONTENT="C:\Program Files\Microsoft Office\Office\html.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080" BGCOLOR="#ffffcc">
+
+<h1>Maureen Fitzsimon's Home Page</h1>
+
+<FONT FACE="Verdana" SIZE=2><P><strong></strong><br />
+
+<hr />
+<P>OK, enough work; now the play...</P>
+</FONT>
+
+<P><FONT FACE="Arial"><A HREF="CanadaAlaska2018.html">Canada Alaska 2018</A></FONT><FONT FACE="Arial" SIZE=2> BC and Alberta, Inside Passage Cruise, Alaska, Jun-Jul 2018.</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="Antarctica2017.html">Antarctica 2017</A></FONT><FONT FACE="Arial" SIZE=2> Patagonia, Falklands, Antarctica, Easter Island, Tahiti, Jan-Feb 2017.</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="TurkeyGreece2016.html">Turkey Greece 2016</A></FONT><FONT FACE="Arial" SIZE=2> A private tour of beautiful Turkey. Ancient and modern Greece.</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="Africa2015.html">Africa 2015</A></FONT><FONT FACE="Arial" SIZE=2> Cheryl &amp; Maureen's East Africa Adventure</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="Japan2015.html">Japan 2015</A></FONT><FONT FACE="Arial" SIZE=2> a Cherry Blossom tour</FONT></P>
+
+<p><FONT FACE="Arial"><A HREF="ItalyCroatia2014.html">Southern Italy, Sicily, Croatia 2014</A></FONT><FONT FACE="Arial" SIZE=2> self-driving with friends</FONT></P>
+
+<p><FONT FACE="Arial">Fiji 2014</FONT><FONT FACE="Arial" SIZE=2> cruise to Yasawas</FONT><br/>
+<FONT FACE="Arial">Mauritius, Rodrigues, Reunion 2014</FONT><FONT FACE="Arial" SIZE=2> island hopping in the Indian Ocean</FONT><br/>
+<FONT FACE="Arial">Fiji 2013</FONT><FONT FACE="Arial" SIZE=2> first ever cruise to the outlying Lau Group of islands</FONT><br/>
+Yeah, Mike needs to update these.</p>
+
+<P><FONT FACE="Arial"><A HREF="Africa2013.html">Southern Africa 2013</A></FONT><FONT FACE="Arial" SIZE=2> a private tour into the wild, with friends</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="Italy2012.html">Italy 2012</A></FONT><FONT FACE="Arial" SIZE=2> Tuscany, Roma with the ladies</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="VietNamCambodia2012.html">VietNam, Cambodia 2012</A></FONT><FONT FACE="Arial" SIZE=2> a shopping, sewing, cooking tour with the ladies</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="UK2011.html">Great Britain 2011</A></FONT><FONT FACE="Arial" SIZE=2> a month driving around Great Britain in August</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="KLLondonPragueNuremburg2011.html">KL, London, Prague, Nuremburg 2011</A></FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="VietNamPragueShanghai2010.html">VietNam, Prague, Budapest, Shanghai 2010</A></FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="RussiaAndScandinavia2010.html">Russia And Scandinavia 2010</A></FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="Philippines2009.htm">Philippines 2009</FONT></A></P>
+
+<P><FONT FACE="Arial"><A HREF="Italy2009.htm">Italy 2009</FONT></A></P>
+
+<P><FONT FACE="Arial"><A HREF="Spain2008.htm">Spain 2008</FONT></A></P>
+
+<P><FONT FACE="Arial"><A HREF="SthAmerica2008.htm">Maureen's South American Adventure</FONT></A><FONT FACE="Arial" SIZE=2> Itinerary for May/June 2008</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="http://mike.brisgeek.com/2007/11/08/fitzies-in-france/" title="Mike's blog">France</FONT></A><FONT FACE="Arial" SIZE=2> October/November 2007</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="http://mike.brisgeek.com/2007/05/06/the-fitzies-in-north-america/" title="Mike's blog">US &amp; Canada</FONT></A><FONT FACE="Arial" SIZE=2> April/May 2007</FONT></P>
+
+<P><FONT FACE="Arial"><A HREF="China2006.htm">Maureen's Tour of China</FONT></A><FONT FACE="Arial" SIZE=2> Itinerary for September/October 2006</FONT></P>
+
+
+<P><A HREF="ChinaTravelTipsAndPackingList.doc"><FONT FACE="Arial">China Travel Tips &amp; Packing List</FONT></A><FONT FACE="Arial" SIZE=2>  Travel tips from Maureen, preparing for China, September 2006.<br>(This is a Word document. To download a copy, <b>right-click</b> on the link and select <b>Save Target As...)</b></P>
+</FONT>
+
+<P>&nbsp;</P>
+
+
+<P><FONT FACE="Arial"><A HREF="JordanEgyptMoroccoItinerary.htm">Maureen's Grand Tour of Jordan, Egypt and Morocco</FONT></A><FONT FACE="Arial" SIZE=2> Itinerary and photos from September/October 2005</FONT></P>
+
+
+
+
+<P><A HREF="turkeytrip3.doc"><FONT FACE="Arial">Turkey Trip Information</FONT></A><FONT FACE="Arial" SIZE=2>  Itinerary from May/June 2004.<br>(This is a Word document. To download a copy, <b>right-click</b> on the link and select <b>Save Target As...)</b></P>
+</FONT>
+
+<P><A HREF="Europe2002.htm"><FONT FACE="Arial">The Fitzies European Tour 2002</FONT></A><FONT FACE="Arial" SIZE=2> June, July, August 2002</FONT></P>
+
+
+
+<P><A HREF="http://www.fitzsimon.com.au/Fraser"><FONT FACE="Arial">Fraser Island Beach House</FONT></A><FONT FACE="Arial" SIZE=2> Our favourite place on the planet.</P>
+<P>&nbsp;</P>
+</FONT>
+
+
+<P><FONT FACE="Arial">BellyDance Logan City, Annual Charity Fundraising Concerts</FONT><br>
+<FONT FACE="Arial" SIZE=2>Photos from the concerts...<br>
+<A HREF="BellyDanceLogan20030802.htm">Saturday 2 August 2003</A><br>
+<A HREF="BellyDanceLogan20050820.htm">Saturday 20 August 2005</A></FONT>
+</p>
+
+
+
+<FONT FACE="Verdana" SIZE=2><P>The Fitzies can be contacted on�<BR>
+Mike's email &#9;</FONT><A HREF="mailto:MikeF1@Fitzsimon.com.au"><FONT FACE="Verdana" SIZE=2>Mike@Fitzsimon.com.au</FONT></A><FONT FACE="Verdana" SIZE=2> (more often) or<BR>
+Mike's mobile &#9;+61 418 275 275 (0418 275 275 from within Australia)</P>
+<%
+Rem The time in Brisbane is 17 hours ahead of Denver.
+rem dteTime = Now() + (18./24.)
+dteTime = Now()
+strNow =  FormatDateTime(dteTime,4) & " on " & FormatDateTime(dteTime,1)
+Response.Write "The current time in Brisbane, Australia is " & strNow & "."
+%>
+</FONT>
+<FONT FACE="Verdana" SIZE=2><br>
+</br>
+<p><hr></hr><a href="http://www.fitzsimon.com.au">Fitzsimon IT Consulting</a></p></FONT>
+</BODY>
+</HTML>
