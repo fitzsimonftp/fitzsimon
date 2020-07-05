@@ -1534,7 +1534,7 @@ Maybe, the many long, drab, cold months, really inspire people to have a jolly g
 
 <div class="article">
 	<div class="thumb" style="width:500px; height:350px">
-	<a href="./images/2016TurkeyGreece/IMG_0316Departure.jpg"><img src="./images/2016TurkeyGreece/IMG_0316Departure_th.jpg" width="480" height="320" alt="Gold Coast International Departures" /></a><br />
+	<a href="./Images/2016TurkeyGreece/IMG_0316Departure.jpg"><img src="./Images/2016TurkeyGreece/IMG_0316Departure_th.jpg" width="480" height="320" alt="Gold Coast International Departures" /></a><br />
 	<small>Judith, Bob, Di, Mike, Jill, Greg, Allan. Front: Maureen and Fay.<br/>Gold Coast International Departures</small>
 	</div>
 <p></p>
